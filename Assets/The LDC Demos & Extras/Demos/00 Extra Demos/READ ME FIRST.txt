@@ -1,0 +1,33 @@
+EXTRA LDC DEMOS
+
+Opening this package will unpack the extra LDC Demos. It is NOT advised to do this in your main project as there are some scripts used by Standard Assets that may have changed since the time the demos were made.
+
+To use these demos, install the LDC plugin (and the extra demos) in its own empty Unity project.
+
+... At the very least, backup your project first! =)
+
+
+INCLUDED DEMO SCENES:
+
+02 - Click To Play Demo.
+03 - Proximity Demo.
+04 - API Demo.
+05 - FPS Demo.
+06 - Global Tokens Demo.
+07 - API Dynamic Dialogs Demo.
+08 - Token File Management Demo.
+09 - LDC v3 Animation Demo.
+10 - Logic Button Demo.
+11 - Title Dialogs Demo.
+12 - PlayerPrefs Demo.
+13 - Linking Dialogs And Scenes Demo.
+14 - Adventure Demo (includes some assets that are based on the free "Necromancer" GUISkin).
+15 - Navigation Callbacks Demo
+16 - Icon Grid Examples Demo
+17 - Localization Actions Demo
+18 - Change Language Demo
+
+Good luck in your projects! =)
+
+- Mel
+

@@ -1,0 +1,7 @@
+PLAYMAKER USERS!
+
+If you use PlayMaker, feel free to import the “LDC_PlayMakerActions” package into your project. This will open up loads of cool actions so you can deeply integrate LDC into your projects.
+
+NOTE: This is provided as bonus content for LDC and is provided as-is.
+
+Enjoy!

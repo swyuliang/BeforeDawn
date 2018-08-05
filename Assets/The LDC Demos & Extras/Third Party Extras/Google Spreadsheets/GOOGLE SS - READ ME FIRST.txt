@@ -1,0 +1,47 @@
+=====================================
+GOOGLE SPREADSHEETS - READ ME FIRST!
+=====================================
+
+-------------------------------------------------------------------------
+ HOW TO INSTALL / UNINSTALL GOOGLE SPREADSHEET FUNCTIONALITY
+-------------------------------------------------------------------------
+
+To install the Google Spreadsheet Importer into your project, simply open the "Google Spreadsheet Installer" package.
+
+NOTE: If you are using other C# plugins that use System.Action functions, Google's DLL's may not be compatible with your project.
+If you need to uninstall the package, you should remove the following files and folders:
+
+	Editor/Hell Tap Entertainment/Dialogs/Editor/DialogGoogleSpreadsheet.js	
+	Editor/Hell Tap Entertainment/Dialogs/Editor/DialogSecurityCertificatePolicy.js
+	Editor/Hell Tap Entertainment/Dialogs/Editor/DialogSpreadSheetImport.js
+	Editor/Hell Tap Entertainment/Shared/Google
+
+-------------------------------------------------------------------------
+ HOW TO UPLOAD AND CONVERT THE SPREADSHEET TEMPLATE TO YOUR GOOGLE DRIVE
+-------------------------------------------------------------------------
+
+To build dialogs via Google Spreadsheets you need to work from the official LDC Spreadsheet Template.
+
+	1) Open Your Google Drive at: https://docs.google.com
+	2) Upload the "LDC Spreadsheet Template.xlsx" file to your Google Drive.
+	3) Click the selection box next to the"LDC Spreadsheet Template.xlsx" file icon.
+	4) Some buttons will appear. Click "More" and then select "Open With > Google Sheets".
+
+This will create a Google Docs version of the spreadsheet which will be accessible from the LDC Google Spreadsheet Tool. 
+You can now delete the original xlsx version if you wish.
+
+-------------------------------------------------------------------------
+ MAKE WORKING COPIES OF YOUR SPREADSHEETS
+-------------------------------------------------------------------------
+
+Don't use the original spreadsheet to make dialogs! Keep that as a template you can duplicate to build other dialogs.
+To create a copy of the "LDC Spreadsheet Template" Spreadsheet:
+
+	1) Open Your Google Drive at: https://docs.google.com
+	2) Click the selection box next to the"LDC Spreadsheet Template" file icon.
+	3) Some buttons will appear. Click "More" and then select "Make A Copy".
+	4) To rename the the copied file, you can right click on it and select "Rename..."
+
+Enjoy!
+
+- Mel.

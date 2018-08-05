@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: f84aafacaef96a9429f3beaa4ae9d555
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 12
+    100002: Bip02 R Toe0
+    100004: Bip02 R Foot
+    100006: qiang
+    100008: qiangkongzhi
+    100010: 5
+    100012: Bip02 R Calf
+    100014: Bip02 R Thigh
+    100016: 11
+    100018: Bip02 L Calf
+    100020: Bip02 L Thigh
+    100022: 13
+    100024: Bip02 Head
+    100026: Bip02 R Finger0
+    100028: Bip02 R Hand
+    100030: Bip02 R Forearm
+    100032: 10
+    100034: Bip02 L Finger4
+    100036: 8 1
+    100038: Bip02 L Finger3
+    100040: 8
+    100042: Bip02 L Toe0
+    100044: Bip02 L Foot
+    100046: Bip02 R Finger4
+    100048: 4
+    100050: Bip02 R Finger3
+    100052: 3
+    100054: Bip02 R Finger2
+    100056: 2
+    100058: Bip02 R Finger1
+    100060: 1
+    100062: //RootNode
+    100064: Bip02 L Finger2
+    100066: 7
+    100068: Bip02 L Finger1
+    100070: 6
+    100072: Bip02 L Finger0
+    100074: Bip02 L Hand
+    100076: Bip02 L Forearm
+    100078: Bip02 Neck
+    100080: Bip02 Spine2
+    100082: Bip02 Spine1
+    100084: Bip02 Spine
+    100086: Bip02 Pelvis
+    100088: Bip02 Footsteps
+    100090: zhongxindian
+    100092: Police01_m01
+    100094: Bip02 R Finger42
+    100096: Bip02 R Finger41
+    100098: Bip02 R Finger32
+    100100: Bip02 R Finger31
+    100102: Bip02 R Finger22
+    100104: Bip02 R Finger21
+    100106: Bip02 R Finger12
+    100108: Bip02 R Finger11
+    100110: Bip02 R Finger02
+    100112: Bip02 R Finger01
+    100114: Bip02 R UpperArm
+    100116: Bip02 R Clavicle
+    100118: Bip02 L Finger42
+    100120: Bip02 L Finger41
+    100122: Bip02 L Finger32
+    100124: Bip02 L Finger31
+    100126: Bip02 L Finger22
+    100128: Bip02 L Finger21
+    100130: Bip02 L Finger12
+    100132: Bip02 L Finger11
+    100134: Bip02 L Finger02
+    100136: Bip02 L Finger01
+    100138: Bip02 L UpperArm
+    100140: Bip02 L Clavicle
+    400000: 12
+    400002: Bip02 R Toe0
+    400004: Bip02 R Foot
+    400006: qiang
+    400008: qiangkongzhi
+    400010: 5
+    400012: Bip02 R Calf
+    400014: Bip02 R Thigh
+    400016: 11
+    400018: Bip02 L Calf
+    400020: Bip02 L Thigh
+    400022: 13
+    400024: Bip02 Head
+    400026: Bip02 R Finger0
+    400028: Bip02 R Hand
+    400030: Bip02 R Forearm
+    400032: 10
+    400034: Bip02 L Finger4
+    400036: 8 1
+    400038: Bip02 L Finger3
+    400040: 8
+    400042: Bip02 L Toe0
+    400044: Bip02 L Foot
+    400046: Bip02 R Finger4
+    400048: 4
+    400050: Bip02 R Finger3
+    400052: 3
+    400054: Bip02 R Finger2
+    400056: 2
+    400058: Bip02 R Finger1
+    400060: 1
+    400062: //RootNode
+    400064: Bip02 L Finger2
+    400066: 7
+    400068: Bip02 L Finger1
+    400070: 6
+    400072: Bip02 L Finger0
+    400074: Bip02 L Hand
+    400076: Bip02 L Forearm
+    400078: Bip02 Neck
+    400080: Bip02 Spine2
+    400082: Bip02 Spine1
+    400084: Bip02 Spine
+    400086: Bip02 Pelvis
+    400088: Bip02 Footsteps
+    400090: zhongxindian
+    400092: Police01_m01
+    400094: Bip02 R Finger42
+    400096: Bip02 R Finger41
+    400098: Bip02 R Finger32
+    400100: Bip02 R Finger31
+    400102: Bip02 R Finger22
+    400104: Bip02 R Finger21
+    400106: Bip02 R Finger12
+    400108: Bip02 R Finger11
+    400110: Bip02 R Finger02
+    400112: Bip02 R Finger01
+    400114: Bip02 R UpperArm
+    400116: Bip02 R Clavicle
+    400118: Bip02 L Finger42
+    400120: Bip02 L Finger41
+    400122: Bip02 L Finger32
+    400124: Bip02 L Finger31
+    400126: Bip02 L Finger22
+    400128: Bip02 L Finger21
+    400130: Bip02 L Finger12
+    400132: Bip02 L Finger11
+    400134: Bip02 L Finger02
+    400136: Bip02 L Finger01
+    400138: Bip02 L UpperArm
+    400140: Bip02 L Clavicle
+    2300000: qiang
+    3300000: qiang
+    4300000: Police01_m01
+    4300002: qiang
+    7400000: Take 001
+    7400002: Standby
+    7400004: Walk
+    7400006: Run
+    7400008: Backward
+    7400010: Standing with carbine aimed
+    7400012: Crouch with carbine aimed
+    7400014: Walk with carbine aimed
+    7400016: Run with carbine aimed
+    7400018: Jump
+    7400020: "\rStanding with auto fire"
+    7400022: Crouch with auto fire
+    7400024: "\rStanding with single fire"
+    7400026: idleCrouch with single fire
+    11100000: //RootNode
+    13700000: Police01_m01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Standby
+      takeName: 
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: 
+      firstFrame: 70
+      lastFrame: 102
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: 
+      firstFrame: 110
+      lastFrame: 130
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Backward
+      takeName: 
+      firstFrame: 140
+      lastFrame: 173
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Standing with carbine aimed
+      takeName: 
+      firstFrame: 180
+      lastFrame: 225
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Crouch with carbine aimed
+      takeName: 
+      firstFrame: 230
+      lastFrame: 270
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk with carbine aimed
+      takeName: 
+      firstFrame: 280
+      lastFrame: 315
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run with carbine aimed
+      takeName: 
+      firstFrame: 320
+      lastFrame: 340
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Jump
+      takeName: 
+      firstFrame: 350
+      lastFrame: 395
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: "\rStanding with auto fire"
+      takeName: 
+      firstFrame: 565
+      lastFrame: 577
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Crouch with auto fire
+      takeName: 
+      firstFrame: 580
+      lastFrame: 592
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: "\rStanding with single fire"
+      takeName: 
+      firstFrame: 600
+      lastFrame: 604
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idleCrouch with single fire
+      takeName: 
+      firstFrame: 610
+      lastFrame: 614
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

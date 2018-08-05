@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\BeforeDawn_Music 5.2.1\Assets\Scripts\Enemy\EnemyAI.cs">
+    <Files>
+      <File FileName="..\BeforeDawn_Music 5.2.1\Assets\Scripts\Enemy\EnemyAI.cs" Line="92" Column="5" />
+      <File FileName="..\BeforeDawn_Music 5.2.1\Assets\Scripts\Player\PlayerHeatlh.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

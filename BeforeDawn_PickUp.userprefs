@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UI Manager\elevatorDialog.cs">
+    <Files>
+      <File FileName="..\..\FPS\office2\Assets\Demo\!Realistic FPS Prefab Files\Scripts\Player\FPSPlayer.cs" Line="86" Column="22" />
+      <File FileName="Assets\Scripts\UI Manager\PlayerHub.cs" Line="17" Column="37" />
+      <File FileName="Assets\Scripts\Player\PlayerLook.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Manager\IconChange.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Manager\MouseMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Manager\NPC_Dialog.cs" Line="51" Column="24" />
+      <File FileName="Assets\Scripts\Weapon Manager\WeaponCrossHair.cs" Line="18" Column="3" />
+      <File FileName="Assets\Scripts\UI Manager\elevatorDialog.cs" Line="29" Column="3" />
+      <File FileName="Assets\Scripts\Weapon Manager\Weapon.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

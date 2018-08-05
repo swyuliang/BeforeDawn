@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: e792711cc9c2d40449dc34163a5126dc
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: operating_bed_A
+    100002: operating_bed_B
+    100004: //RootNode
+    100006: operating_lamp_A
+    100008: operating_lamp_B
+    100010: operating_lamp_A_R
+    100012: operating_lamp_B_R
+    100014: ms_1
+    100016: ms_2
+    100018: operating_bed_A_COLLDIER
+    100020: operating_bed_B_COLLDIER
+    100022: operating_lamp_A_COLLDIER
+    100024: operating_lamp_A_COLLDIER.001
+    100026: operating_lamp_B_COLLDIER
+    100028: operating_lamp_B_R_COLLDIER
+    100030: operating_lamp_A_R_COLLDIER
+    400000: operating_bed_A
+    400002: operating_bed_B
+    400004: //RootNode
+    400006: operating_lamp_A
+    400008: operating_lamp_B
+    400010: operating_lamp_A_R
+    400012: operating_lamp_B_R
+    400014: ms_1
+    400016: ms_2
+    400018: operating_bed_A_COLLDIER
+    400020: operating_bed_B_COLLDIER
+    400022: operating_lamp_A_COLLDIER
+    400024: operating_lamp_A_COLLDIER.001
+    400026: operating_lamp_B_COLLDIER
+    400028: operating_lamp_B_R_COLLDIER
+    400030: operating_lamp_A_R_COLLDIER
+    2300000: operating_bed_A
+    2300002: operating_bed_B
+    2300004: operating_lamp_A
+    2300006: operating_lamp_B
+    2300008: operating_lamp_A_R
+    2300010: operating_lamp_B_R
+    2300012: ms_1
+    2300014: ms_2
+    2300016: operating_bed_A_COLLDIER
+    2300018: operating_bed_B_COLLDIER
+    2300020: operating_lamp_A_COLLDIER
+    2300022: operating_lamp_A_COLLDIER.001
+    2300024: operating_lamp_B_COLLDIER
+    2300026: operating_lamp_B_R_COLLDIER
+    2300028: operating_lamp_A_R_COLLDIER
+    3300000: operating_bed_A
+    3300002: operating_bed_B
+    3300004: operating_lamp_A
+    3300006: operating_lamp_B
+    3300008: operating_lamp_A_R
+    3300010: operating_lamp_B_R
+    3300012: ms_1
+    3300014: ms_2
+    3300016: operating_bed_A_COLLDIER
+    3300018: operating_bed_B_COLLDIER
+    3300020: operating_lamp_A_COLLDIER
+    3300022: operating_lamp_A_COLLDIER.001
+    3300024: operating_lamp_B_COLLDIER
+    3300026: operating_lamp_B_R_COLLDIER
+    3300028: operating_lamp_A_R_COLLDIER
+    4300000: operating_bed_A
+    4300002: operating_lamp_A
+    4300004: operating_lamp_B
+    4300006: operating_bed_B
+    4300008: operating_lamp_A_R
+    4300010: operating_lamp_B_R
+    4300012: ms_1
+    4300014: ms_2
+    4300016: operating_bed_B_COLLDIER
+    4300018: operating_lamp_B_R_COLLDIER
+    4300020: operating_lamp_A_COLLDIER.001
+    4300022: operating_bed_A_COLLDIER
+    4300024: operating_lamp_A_COLLDIER
+    4300026: operating_lamp_B_COLLDIER
+    4300028: operating_lamp_A_R_COLLDIER
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .200000003
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

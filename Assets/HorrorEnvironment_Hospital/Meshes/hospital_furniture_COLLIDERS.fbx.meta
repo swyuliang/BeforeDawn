@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: d5b6cf5b77eeba24798fb5e95d32882a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bed_A_COLLIDER
+    100002: bed_A_empty_COLLIDER
+    100004: bed_B_COLLIDER
+    100006: bed_B_empty_COLLIDER
+    100008: bed_C_COLLIDER
+    100010: bed_C_empty_COLLIDER
+    100012: bench_COLLIDER
+    100014: chair_A_COLLIDER
+    100016: //RootNode
+    100018: shower_COLLIDER
+    100020: sink_COLLIDER
+    100022: toilet_A_COLLIDER
+    100024: toilet_flushBox_COLLIDER
+    400000: bed_A_COLLIDER
+    400002: bed_A_empty_COLLIDER
+    400004: bed_B_COLLIDER
+    400006: bed_B_empty_COLLIDER
+    400008: bed_C_COLLIDER
+    400010: bed_C_empty_COLLIDER
+    400012: bench_COLLIDER
+    400014: chair_A_COLLIDER
+    400016: //RootNode
+    400018: shower_COLLIDER
+    400020: sink_COLLIDER
+    400022: toilet_A_COLLIDER
+    400024: toilet_flushBox_COLLIDER
+    2300000: bed_A_COLLIDER
+    2300002: bed_A_empty_COLLIDER
+    2300004: bed_B_COLLIDER
+    2300006: bed_B_empty_COLLIDER
+    2300008: bed_C_COLLIDER
+    2300010: bed_C_empty_COLLIDER
+    2300012: bench_COLLIDER
+    2300014: chair_A_COLLIDER
+    2300016: shower_COLLIDER
+    2300018: sink_COLLIDER
+    2300020: toilet_A_COLLIDER
+    2300022: toilet_flushBox_COLLIDER
+    3300000: bed_A_COLLIDER
+    3300002: bed_A_empty_COLLIDER
+    3300004: bed_B_COLLIDER
+    3300006: bed_B_empty_COLLIDER
+    3300008: bed_C_COLLIDER
+    3300010: bed_C_empty_COLLIDER
+    3300012: bench_COLLIDER
+    3300014: chair_A_COLLIDER
+    3300016: shower_COLLIDER
+    3300018: sink_COLLIDER
+    3300020: toilet_A_COLLIDER
+    3300022: toilet_flushBox_COLLIDER
+    4300000: bed_A_COLLIDER
+    4300002: bed_B_COLLIDER
+    4300004: bed_C_COLLIDER
+    4300006: chair_A_COLLIDER
+    4300008: bench_COLLIDER
+    4300010: bed_C_empty_COLLIDER
+    4300012: bed_B_empty_COLLIDER
+    4300014: bed_A_empty_COLLIDER
+    4300016: toilet_A_COLLIDER
+    4300018: toilet_flushBox_COLLIDER
+    4300020: shower_COLLIDER
+    4300022: sink_COLLIDER
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .200000003
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

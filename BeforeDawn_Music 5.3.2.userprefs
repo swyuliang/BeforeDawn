@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UI Manager\NPC_Dialog.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Enemy\EnemyAI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy\EnemyAI2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Manager\eleTriggerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Manager\PlayerHub.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Weapon Manager\WeaponCrossHair.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Manager\GameEnd.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Manager\NPC_Dialog.cs" Line="35" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
